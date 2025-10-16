@@ -16,4 +16,5 @@ IsaacSim 4.2.0
 
 # Teleoperation Data Collection
 Run the keyboard teleoperation script to control the Spot robot and collect data:
+
 /path-to-isaacsim/isaac-sim-4.2.0/python.sh /path-to-code/script/teleop_se3_agent.py 
