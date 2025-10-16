@@ -9,4 +9,4 @@
 [![License](https://img.shields.io/badge/license-BSD--3-yellow.svg)](https://opensource.org/licenses/BSD-3-Clause)
 
 
-/path-to-isaacsim/isaac-sim-4.2.0/python.sh /path-to-code/curtain_wenyan/script/teleop_se3_agent.py 
+/path-to-isaacsim/isaac-sim-4.2.0/python.sh /path-to-code/script/teleop_se3_agent.py 
